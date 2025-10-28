@@ -17,7 +17,7 @@ Draw freely in the air using your fingers and see your creations appear on the s
 ## 🛠️ Installation
 
 # Clone the repository
-git clone https://github.com/<your-username>/hand-gesture-drawing-app.git
+git clone https://github.com/HadilBousssensla/hand-gesture-drawing-app.git
 
 cd hand-gesture-drawing-app
 
@@ -51,3 +51,4 @@ Controls:
 👩‍💻 Author
 
 Developed by Hadil Boussensla 💫
+
